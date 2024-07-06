@@ -1,6 +1,6 @@
 # Electric Blast Furnace
 - Medium Voltage
-- 🌱 I’m currently learning mass trolling
+
 
 
 <!---
